@@ -13,12 +13,9 @@ This website or app is....
 whatever is in repo
 
 ## Contact
-philgdaum@gmail.com
+
 
 ## Other
-- put in some emojis and stuff
-- This part will be filled out more
-  - learn more best practices  
-  - Read more documents
+
   **- one last thing**
 
