@@ -1,15 +1,16 @@
-/* FONTS  - change - */ 
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Lobster&family=Open+Sans:wght@300&display=swap');
+/* FONTS */ 
+@font-face {
+  font-family:  'marker-felt';
+  src: url(../fonts/marker-felt.ttf);
+  font-weight: bold;
+} 
 
 h1 {
-  font-family: 'Lobster', cursive;
+  font-family: 'marker-felt';
+  font-size: 10vw;
 }
 
-h2 {
-  font-family: 'Audiowide', cursive;
-}
-
-p {
+h2, h3, h4, p {
   font-family: 'Open Sans', sans-serif;
 }
 
